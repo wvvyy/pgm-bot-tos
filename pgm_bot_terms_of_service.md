@@ -1,0 +1,36 @@
+# PGM BOT TERMS OF SERVICE (ToS)
+
+**Last Updated: September 17, 2026**
+
+## 1. ACCEPTANCE OF TERMS
+By inviting, authenticating, accessing, or utilizing the PGM Bot ("the Bot", "the Service", "we", "us", or "our") within any Discord server, you ("the User", "you", or "your") unequivocally agree to be bound by these Terms of Service. This agreement constitutes a legally binding contract between you and the developers/administrators of PGM Bot. If you do not agree to every single provision, condition, and clause outlined in this document, you are expressly prohibited from using the Bot and must immediately cease any interaction with it. We reserve the right to update, modify, or replace these Terms at any time without prior explicit notice. Continued use of the Bot following any changes constitutes your formal acceptance of the new Terms.
+
+## 2. STRICT AGE RESTRICTION (18+)
+Access to and use of PGM Bot is strictly limited to individuals who are at least eighteen (18) years of age or older, or the age of legal majority in your respective jurisdiction, whichever is greater. By utilizing this Service, you represent, warrant, and guarantee that you meet this age requirement. 
+*   **Zero Tolerance Policy:** There are no exceptions, workarounds, or parental consent loop-holes to this rule. 
+*   **Falsification:** Falsifying your age to gain access to PGM Bot is a direct violation of these Terms. If we discover, or have reasonable suspicion to believe, that a User is under the age of 18, their access to the Bot will be immediately and permanently terminated, and their account details may be reported to Discord Trust & Safety.
+
+## 3. COMPLIANCE WITH DISCORD TERMS OF SERVICE
+PGM Bot operates entirely within the infrastructure of Discord Inc. Therefore, your use of PGM Bot is inherently subject to Discord’s own Terms of Service and Community Guidelines. 
+*   **Simultaneous Adherence:** You must comply with all Discord policies at all times. Any action taken using PGM Bot that violates Discord's Terms of Service, Community Guidelines, or API policies constitutes an automatic and severe violation of PGM Bot's Terms of Service.
+*   **Enforcement:** We reserve the right to indefinitely blacklist any user or server from PGM Bot if they are found to be operating in violation of Discord's fundamental rules, regardless of whether Discord has taken action against them yet.
+
+## 4. PROHIBITION OF SCAMMING, FRAUD, AND DECEPTIVE PRACTICES
+PGM Bot is designed as a tool to facilitate smooth market browsing. It must not, under any circumstances, be utilized to facilitate, promote, or execute any form of fraudulent activity.
+*   **Expansive Definition of Fraud:** Prohibited activities include, but are explicitly not limited to: running confidence scams, phishing for account credentials or personal information, intentionally misrepresenting the value or nature of digital or physical goods, initiating malicious chargebacks, failing to deliver promised goods after payment is received, or creating false market listings to manipulate prices.
+*   **No Loop-holes:** "Trolling," "joking," or claiming a fraudulent act was a "social experiment" will not be accepted as a defense. If you utilize the Bot’s features to deceive another user for financial, digital, or material gain, you will be permanently banned from the Service. 
+
+## 5. EXPLOITATION, ABUSE, AND SYSTEM INTEGRITY
+Users are strictly forbidden from attempting to circumvent, disrupt, or compromise the technical infrastructure of PGM Bot.
+*   **Prohibited Technical Actions:** You may not exploit bugs, glitches, or unintended mechanics within the Bot's code for personal gain or to harm others. You may not use automated scripts, macros, auto-typers, or third-party software to interact with the Bot (including spamming commands to bypass rate limits).
+*   **Reverse Engineering:** You are prohibited from attempting to decompile, reverse engineer, or otherwise attempt to extract the source code or proprietary algorithms of PGM Bot. 
+*   **Denial of Service:** Any attempt to intentionally overload the Bot's servers, trigger rate limits maliciously, or cause downtime for other users is strictly prohibited and will result in an immediate blacklist and potential reporting to internet service providers or relevant authorities.
+
+## 6. DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+**Crucial Stipulation:** PGM Bot is strictly an informational aggregation and interface tool. We do not process payments, hold escrow, or guarantee the delivery of any goods or services traded between users.
+*   **No Endorsement:** The listing of an item or user via PGM Bot does not constitute an endorsement, verification, or guarantee of that user's legitimacy by PGM Bot developers.
+*   **User Responsibility:** All trades, transactions, and interactions facilitated by information found via PGM Bot are undertaken solely at your own risk. You are solely responsible for conducting your own due diligence before completing any transaction.
+*   **Maximum Extent of the Law:** To the maximum extent permitted by applicable law, PGM Bot, its developers, and its affiliates shall not be held liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to loss of profits, data, digital assets, or goodwill, arising out of your use of, or inability to use, the Service, or resulting from the fraudulent actions of third-party users you interacted with via the Service.
+
+## 7. TERMINATION AND REVOCATION OF ACCESS
+We reserve the absolute, unchallengeable right to suspend, terminate, or permanently blacklist your access to PGM Bot, at any time, for any reason, with or without prior notice. This includes, but is not limited to, violations of any clause within these Terms of Service. Decisions made regarding account terminations are final and not subject to appeal.
